@@ -1,0 +1,13 @@
+kagglehub
+numpy
+pandas
+matplotlib
+seaborn
+python-dotenv
+langchain-community
+langchain-openai
+langchain-chroma
+transformers
+gradio
+
+-r dev_requirements.txt
