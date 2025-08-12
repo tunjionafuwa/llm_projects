@@ -12,6 +12,9 @@ langchain-chroma
 transformers
 gradio
 
+torch
+torchvision
+
 # for notebook
 ipykernel
 ipywidgets
